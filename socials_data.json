@@ -2,22 +2,22 @@
         {
             "platform": "facebook",
             "profileUrl": "https://www.facebook.com/",
-            "logoUrl": ""
+            "logoUrl": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/socials/facebook-icon.svg"
         },
         {
             "platform": "reddit",
             "profileUrl": "https://www.linkedin.com/",
-            "logoUrl": ""
+            "logoUrl": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/socials/reddit-icon.svg"
         },
         {
             "platform": "twitter",
             "profileUrl": "https://www.github.com/",
-            "logoUrl": ""
+            "logoUrl": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/socials/twitter-icon.svg"
         },
 
         {
             "platform": "discord",
             "profileUrl": "https://www.github.com/",
-            "logoUrl": ""
+            "logoUrl": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/socials/discord-icon.svg"
         }
 ]
