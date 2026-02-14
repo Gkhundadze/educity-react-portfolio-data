@@ -1,0 +1,23 @@
+[
+        {
+            "platform": "facebook",
+            "profileUrl": "https://www.facebook.com/",
+            "logoUrl": ""
+        },
+        {
+            "platform": "reddit",
+            "profileUrl": "https://www.linkedin.com/",
+            "logoUrl": ""
+        },
+        {
+            "platform": "twitter",
+            "profileUrl": "https://www.github.com/",
+            "logoUrl": ""
+        },
+
+        {
+            "platform": "discord",
+            "profileUrl": "https://www.github.com/",
+            "logoUrl": ""
+        }
+]
