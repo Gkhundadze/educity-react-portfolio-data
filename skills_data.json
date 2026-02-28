@@ -1,18 +1,19 @@
 [
     {
-    "skillTitle": "html"
+
+        "skillTitle": "html"
     },
      {
-    "skillTitle": "css"
+        "skillTitle": "css"
     },
      {
-    "skillTitle": "react"
+        "skillTitle": "react"
     },
      {
-    "skillTitle": "javascript"
+        "skillTitle": "javascript"
     },
      {
-    "skillTitle": "github"
+        "skillTitle": "github"
     }
     
 ]
