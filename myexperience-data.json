@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Lead Software Engineer at Google",
-        "logo": "s",
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/experience/google-logo.svg",
         "description": "As a Senior Software Engineer at Google, I played a pivotal role in developing innovative solutions for Google's core search algorithms. Collaborating with a dynamic team of engineers, I contributed to the enhancement of search accuracy and efficiency, optimizing user experiences for millions of users worldwide.",
         "date": "January 2020 - Present"
 
@@ -10,7 +10,7 @@
      {
         "id": 2,
         "title": "Software Engineer at Youtube",
-        "logo": "s",
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/experience/youtube-logo.svg",
         "description": "At Youtube, I served as a  Software Engineer, focusing on the design and implementation of backend systems for the social media giant's dynamic platform. Working on projects that involved large-scale data processing and user engagement features, I leveraged my expertise to ensure seamless functionality and scalability.",
         "date": "Jan 2017 - Oct 2019"
 
