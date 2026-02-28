@@ -1,18 +1,22 @@
 [
     {
-
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/skills/git.svg",
         "skillTitle": "html"
     },
      {
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/skills/javascript.svg",
         "skillTitle": "css"
     },
      {
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/skills/nest.js.svg",
         "skillTitle": "react"
     },
      {
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/skills/sass.svg",
         "skillTitle": "javascript"
     },
      {
+        "logo": "https://raw.githubusercontent.com/Gkhundadze/educity-react-portfolio-data/refs/heads/main/img/skills/storybook.svg",
         "skillTitle": "github"
     }
     
