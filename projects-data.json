@@ -4,7 +4,7 @@
         "order": "01",
         "title": "Project Title",
         "description": "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "cover": "https://github.com/Gkhundadze/educity-react-portfolio-data/blob/main/img/projects/exp-cover-image.png",
+        "cover": "https://github.com/Gkhundadze/educity-react-portfolio-data/blob/main/img/projects/exp-cover-image.png?raw=true",
         "link": "#"
     },
     {
@@ -12,7 +12,7 @@
         "order": "02",
         "title": "Project Title",
         "description": "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "cover": "https://github.com/Gkhundadze/educity-react-portfolio-data/blob/main/img/projects/exp-cover-image.png",
+        "cover": "https://github.com/Gkhundadze/educity-react-portfolio-data/blob/main/img/projects/exp-cover-image.png?raw=true",
         "link": "#"
     },
     {
@@ -20,7 +20,7 @@
         "order": "03",
         "title": "Project Title",
         "description": "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-        "cover": "https://github.com/Gkhundadze/educity-react-portfolio-data/blob/main/img/projects/exp-cover-image.png",
+        "cover": "https://github.com/Gkhundadze/educity-react-portfolio-data/blob/main/img/projects/exp-cover-image.png?raw=true",
         "link": "#"
     }
 ]
