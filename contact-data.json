@@ -1,7 +1,7 @@
 {
     "sloganEN": {
-        "generic-text": "Let's talk something special",
-        "highligthed-word": "talk",
+        "genericText": "Let's talk something special",
+        "highligthedWord": "talk",
         "description": "I am always open to new opportunities and collaborations. Whether you have a project in mind or just want to connect, feel free to reach out. Let's talk and see how we can work together to create something amazing.",
         "contact": {
             "email": "Email",
@@ -9,8 +9,8 @@
         }  
     },
     "sloganGE": {
-        "generic-text": "მოდი ვილაპარაკოთ რაღაც განსაკუთრებული",
-        "highligthed-word": "ვილაპარაკოთ",
+        "genericText": "მოდი ვილაპარაკოთ რაღაც განსაკუთრებული",
+        "highligthedWord": "ვილაპარაკოთ",
         "description": "მე ყოველთვის მზად ვარ ახალი შესაძლებლობებისთვის და თანამშრომლობისთვის. თუ თქვენ გაქვთ პროექტი ან უბრალოდ გსურთ დაკავშირება, ნუ მოგერიდებათ დამიკავშირდეთ. მოდით ვილаპარაკოთ და ვნახოთ როგორ შეგვიძლია ერთად ვიმუშაოთ რაღاც საოცარი შექმნაზე.",
         "contact": {
             "email": "ელ.ფოსტა",
